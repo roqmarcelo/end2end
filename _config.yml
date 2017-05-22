@@ -16,38 +16,32 @@ sass:
 
 # SEO settings
 title: roqmarcelo
-description: "Independent Consultant and Freelancer for Java EE and ASP.NET Projects"
-keywords: "JavaEE, ASP.NET MVC, Software Engineering, Programming"
+description: "Consultor Independente e Freelancer focado em projetos utilizando Java EE e ASP.NET"
+keywords: "JavaEE, ASP.NET MVC, Engenheiro de Software, Programador, Freelancer, Consultor"
 url: http://roqmarcelo.github.io
-baseurl: "/roqmarcelo"
-# baseurl: ""
+baseurl: ""
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/roqmarcelo/roqmarcelo.github.io
-#disqus_shortname: "nandothemes"
-#disqus_site_shortname: "nandothemes"
+disqus_shortname: "roqmarcelo"
+disqus_site_shortname: "roqmarcelo"
 
 # Author settings
 author:
   name      : Roque Marcelo Santana dos Santos
-  job       : Software Engineer
-  bio       : "Passionate software developer with focus on Java and .NET platforms."
+  job       : Desenvolvedor de Software
+  bio       : "Desenvolvedor de Software com mais de 6 anos de experiência nas plataformas Java e .NET."
   thumb     : /images/author.jpg
   email     : roque.santoro@gmail.com
   url       : http://roqmarcelo.github.io
   github    : http://github.com/roqmarcelo
   twitter   : http://twitter.com/roqmarcelo
-  #facebook  : http://facebook.com/fernando.dev
   linkedin  : http://linkedin.com/in/roqmarcelo
 
 # navbar pages
 navbar:
   - slug: sobre
     title: Sobre
-  # - slug: resume
-  #   title: Resume
-  # - slug: skills
-  #   title: Skills
   - slug: blog
     title: Blog
 

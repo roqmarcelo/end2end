@@ -4,8 +4,6 @@ title: Sobre
 permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Possuo +6 anos de experiência na área de TI, atuando como desenvolvedor de software utilizando principalmente a plataforma Java, mas também sou proeminente em .NET, mais especificamente o ASP.NET MVC.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) .
+Atuo como Consultor Independente/Freelance em projetos .NET +2 anos.
