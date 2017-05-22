@@ -15,30 +15,30 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: roqmarcelo
+description: "Independent Consultant and Freelancer for Java EE and ASP.NET Projects"
+keywords: "JavaEE, ASP.NET MVC, Software Engineering, Programming"
+url: http://roqmarcelo.github.io
+baseurl: "/roqmarcelo"
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/roqmarcelo/roqmarcelo.github.io
+#disqus_shortname: "nandothemes"
+#disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Roque Marcelo Santana dos Santos
+  job       : Software Engineer
+  bio       : "Passionate software developer with focus on Java and .NET platforms."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : roque.santoro@gmail.com
+  url       : http://roqmarcelo.github.io
+  github    : http://github.com/roqmarcelo
+  twitter   : http://twitter.com/roqmarcelo
+  #facebook  : http://facebook.com/fernando.dev
+  linkedin  : http://linkedin.com/in/roqmarcelo
 
 # navbar pages
 navbar:
