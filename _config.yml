@@ -15,8 +15,8 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: roqmarcelo
-description: "Consultor Independente e Freelancer focado em projetos utilizando Java EE e ASP.NET"
+title: Roque Marcelo - Programador, Consultor, Freelancer
+description: "Consultor Independente e Freelancer focado em projetos utilizando Java EE e ASP.NET MVC"
 keywords: "JavaEE, ASP.NET MVC, Engenheiro de Software, Programador, Freelancer, Consultor"
 url: http://roqmarcelo.github.io
 baseurl: ""
@@ -28,9 +28,9 @@ disqus_site_shortname: "roqmarcelo"
 
 # Author settings
 author:
-  name      : Roque Marcelo Santana dos Santos
+  name      : Roque Marcelo
   job       : Desenvolvedor de Software
-  bio       : "Desenvolvedor de Software com mais de 6 anos de experiência nas plataformas Java e .NET."
+  bio       : "+6 anos desenvolvendo software nas plataformas Java e .NET."
   thumb     : /images/author.jpg
   email     : roque.santoro@gmail.com
   url       : http://roqmarcelo.github.io
